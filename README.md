@@ -1,4 +1,4 @@
-# manjaroI3
+# Instalando o Manjaro Linux com o I3
 
 Como instalar o Manjaro com o tiling window manager i3wm.
 
