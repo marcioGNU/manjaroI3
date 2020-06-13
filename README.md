@@ -10,6 +10,7 @@ Como instalar o Manjaro com o tiling window manager i3wm.
 - no menu superior clicar em editions > community > i3
 - clicar no botão de "get i3 20.0.3"
 - clicar no botão de download
+- aguardar o término do download, verificando o tamanho do arquivo
 
 2. Criar o pendrive bootável a partir do Linux
 
